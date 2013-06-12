@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1",
+    "ember": "1.0.0-rc.3",
+    "ember-data-shim": "~0.0.13",
+    "handlebars": "1.0.0-rc.3"
+  }
+}
